@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=github.com/GilsonKedson)](https://github.com/GilsonKedson)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/gilson-kedson/)](https://www.linkedin.com/in/gilson-kedson/)
 
-Sou Técnico em Informática e Graduando do Bacharelado em Ciências e Tecnologia da UFRN. 
+Sou Técnico em Informática e Graduando do Bacharelado em Ciências e Tecnologia pela UFRN. 
 
 Apaixonado pela área tecnológica, atualmente tenho foco na área backend, mas posteriormente penso em adentrar também na área frontend e me tornar um dev fullstack.
 
