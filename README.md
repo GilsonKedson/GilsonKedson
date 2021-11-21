@@ -1,4 +1,4 @@
-## Olá! Eu sou Gilson Kedson 💻
+<h1 align="center">Olá! Eu sou Gilson Kedson 💻</h1>
 
 <p align="center"> Estudante de Ciências e Tecnologia na UFRN 👨‍🎓</p></br>
 <p align="center">Atualmente sou Assessor de Projetos e backend na Empresa Júnior da Escola de Ciências e Tecnologia (EJECT).</p>
@@ -6,7 +6,8 @@
 <div align="center">
   <a href="https://github.com/GilsonKedson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilsonKedson&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilsonKedson&layout=compact&langs_count=7&theme=github_dark"/>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilsonKedson&layout=compact&langs_count=7&theme=github_dark"/>
+  </a>
 </div>
 
  <h2 align="center"> Tecnologias Utilizadas: </h2>
