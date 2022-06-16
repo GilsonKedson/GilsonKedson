@@ -1,4 +1,4 @@
-# Olá, Eu sou Gilson Kedson, Dev. Backend Júnior! 👨‍💻
+# Olá, Eu sou Gilson Kedson! 👨‍💻
 <ul>
   <li> 📚 Bacharelando em Ciências e Tecnologia, UFRN </li>
   <li> 🎓 Programador Web, IMD/UFRN </li>
